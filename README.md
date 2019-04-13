@@ -6,10 +6,11 @@ You can checkout the live version of the application at https://chatting-applica
 
 1. Java - 1.8.x
 2. Maven - 3.x.x
+
 ## Steps to Setup
 **1. Clone the application**
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/prataptryingcoding/chatting-code.git
 ```
 **2. Build and run the app using maven**
 ```bash
@@ -22,5 +23,5 @@ Alternatively, you can run the app directly without packaging it like so -
 mvn spring-boot:run
 ```
 ## Learn More
-You can find the tutorial for this application on my blog -
+You can find the tutorial for this application in my submission file -
 https://www.callicoder.com/spring-boot-websocket-chat-example/
