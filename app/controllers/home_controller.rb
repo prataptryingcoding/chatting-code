@@ -6,4 +6,9 @@ class HomeController < ApplicationController
     @conversations = Conversation.includes(:recipient, :messages)
                                  .find(session[:conversations])
   end
+	def logout
+		@user = current_user
+		sign_out @user
+		redirect_to new_user_session_path
+	end
 end

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   root 'home#index'
+  get '/logout' ,to: 'home#logout'
 
   devise_for :users
 
