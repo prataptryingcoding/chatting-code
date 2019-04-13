@@ -1,4 +1,4 @@
-You can checkout the live version of the application at https://spring-ws-chat.herokuapp.com/
+You can checkout the live version of the application at https://chatting-application-actioncab.herokuapp.com/users/sign_in
 
 ![App Screenshot](screenshot.png)
 
