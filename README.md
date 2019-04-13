@@ -2,6 +2,15 @@ You can checkout the live version of the application at https://chatting-applica
 
 ![App Screenshot](screenshot.png)
 
+## UserIDs and Creds
+user-1@example.com
+user-2@example.com
+user-3@example.com
+user-4@example.com
+user-5@example.com
+
+Password: pass123
+
 ## Requirements
 
 1. Java - 1.8.x
